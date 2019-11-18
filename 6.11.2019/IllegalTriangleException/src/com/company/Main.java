@@ -15,8 +15,8 @@ public class Main {
         int c = sc.nextInt();
         try {
 
-        } catch (IllegalTriangleException) {
-            
+        } catch (Exception e) {
+            System.out.println();
         }
     }
 }
